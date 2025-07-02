@@ -11,7 +11,7 @@ This repository contains previews of the interactive features I developed for th
 
 🌐 [Live App](https://myctis.utep.edu/mpo/mwt/)
 
-The Multimodal Web Tool is a web-based application funded and supported by the **El Paso MPO**, designed to visualize performance metrics for driving, transit, walking, biking, freight, and air quality across regional corridors. It helps planners, and local leaders to better understand how the transportation system is performing across the El Paso region.
+The Multimodal Web Tool is a web-based application funded and supported by the **El Paso MPO**, designed to visualize performance metrics for driving, transit, walking, biking, and freight across regional corridors. It helps planners, and local leaders to better understand how the transportation system is performing across the El Paso region.
 
 ---
 
@@ -20,7 +20,7 @@ The Multimodal Web Tool is a web-based application funded and supported by the *
 - **Role:** Full Stack Developer (UTEP/CTIS)  
 - **What I did:**  
   - Designed and implemented interactive map modules to display multimodal transportation performance indicators.  
-  - Integrated shapefiles, and Google Maps API with HTML, CSS, JavaScript, PHP, and SQL to build data-rich visualizations.  
-  - Contributed to backend data processing, UI improvements, and deployment support during multiple enhancement phases.
+  - Integrated shapefiles, and Google Maps API with HTML, CSS, JavaScript, PHP, and SQL to build data visualizations.  
+  - Contributed to backend data processing, UI improvements, and deployment support.
 
 ---
